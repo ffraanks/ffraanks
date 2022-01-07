@@ -15,6 +15,8 @@
    <a href = "https://wiki.archlinux.org/title/User:FranklinTech"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"></a>
   
 ## Donations
+  <img src="PIX.png">
+  ## franklinpb98@gmail.com
    
    ![Snake animation](https://github.com/ffraanks/ffraanks/blob/output/github-contribution-grid-snake.svg)
    </div>
