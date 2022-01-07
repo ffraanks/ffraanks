@@ -4,8 +4,8 @@
 
 <div align="height">
   <a href="https://github.com/ffraanks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffraanks&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffraanks&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffraanks&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffraanks&layout=compact&langs_count=7&theme=aura"/>
 </div>
  <div>
   <a href = "https://t.me/FranklinTech"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
