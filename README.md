@@ -1,4 +1,4 @@
-### Ola! Eu sou o Franklin 👋
+## Hi! My name is Franklin Souza 👋
 
  <img align="center" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif">
 
@@ -13,6 +13,8 @@
   <a href = "mailto:franklinpb98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.reddit.com/user/FranklinTech"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
    <a href = "https://wiki.archlinux.org/title/User:FranklinTech"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"></a>
+  
+## Donations
    
    ![Snake animation](https://github.com/ffraanks/ffraanks/blob/output/github-contribution-grid-snake.svg)
    </div>
