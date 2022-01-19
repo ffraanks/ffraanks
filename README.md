@@ -1,6 +1,6 @@
 ## Hi! My name is Franklin Souza 👋
 
- <img align="center" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/zruQbn0E0eva8/giphy.gif">
+ <img align="center" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif">
 
 <div align="height">
   <a href="https://github.com/ffraanks">
