@@ -1,4 +1,4 @@
-## Hi! My name is Franklin Souza 👋
+## Hello human! 👋
 
  <img align="center" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif">
 
